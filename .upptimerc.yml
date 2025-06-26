@@ -3,9 +3,9 @@ repo: status.mitpa.tech
 
 sites:
   - name: MITPA Site
-    url: https://mitpa.tech
+    url: https://cdn-mitpa-tech.vercel.app
   - name: MITPA CDN
-    url: https://cdn.mitpa.tech
+    url: https://mitpa-tech.vercel.app
 
 status-website:
   baseUrl: /
