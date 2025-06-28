@@ -1,5 +1,5 @@
-owner: MITPAcademy
-repo: status.mitpa.tech
+owner: PRACTAcademy
+repo: status.practa.tech
 
 sites:
   - name: MITPA Site
@@ -8,14 +8,14 @@ sites:
     url: https://mitpa-tech.vercel.app
 
 status-website:
-  baseUrl: /status.mitpa.tech/
+  baseUrl: /status.practa.tech/
   theme: dark
   logoUrl: https://camo.githubusercontent.com/7c6861abe08e7c71bb01829c681be8b8678d35bd89dc3d61d14f781b9ec947d6/68747470733a2f2f6d697470612d746563682e76657263656c2e6170702f4c6f676f2e706e67
-  name: MITPA Status
-  introTitle: "**MITPA Status**"
+  name: PRACTA Status
+  introTitle: "**PRACTA Status**"
   introMessage: Real-time monitoring of our services, powered by GitHub Actions. Transparency and reliability for our community.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/MITPAcademy/status.mitpa.tech
+      href: https://github.com/PRACTAcademy/status.practa.tech
