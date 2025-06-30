@@ -2,10 +2,16 @@ owner: PRACTAcademy
 repo: status.practa.tech
 
 sites:
-  - name: MITPA Site
+  - name: PRACTA Site
     url: https://cdn.practa.tech
-  - name: MITPA CDN
+  - name: PRACTA CDN
     url: https://www.practa.tech
+  - name: PRACTA API
+    url: https://api.practa.tech
+  - name: PRACTA Files
+    url: https://files.practa.tech
+  - name: PRACTA CDN
+    url: https://cdn.practa.tech
 
 status-website:
   baseUrl: /
