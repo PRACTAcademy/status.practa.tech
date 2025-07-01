@@ -10,8 +10,8 @@ sites:
     url: https://api.practa.tech/status
   - name: PRACTA Files
     url: https://files.practa.tech
-  - name: PRACTA CDN
-    url: https://cdn.practa.tech
+  - name: PRACTA Docs
+    url: https://docs.practa.tech
 
 status-website:
   baseUrl: /
