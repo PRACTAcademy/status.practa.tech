@@ -3,9 +3,9 @@ repo: status.practa.tech
 
 sites:
   - name: PRACTA Site
-    url: https://cdn.practa.tech
-  - name: PRACTA CDN
     url: https://www.practa.tech
+  - name: PRACTA CDN
+    url: https://cdn.practa.tech
   - name: PRACTA API
     url: https://api.practa.tech
   - name: PRACTA Files
