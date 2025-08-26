@@ -4,10 +4,10 @@
     "url": "https://www.practa.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.practa.tech.ico",
     "slug": "practa-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
@@ -15,17 +15,19 @@
     "timeWeek": 417,
     "timeMonth": 401,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 2
+    }
   },
   {
     "name": "PRACTA CDN",
     "url": "https://cdn.practa.tech",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.practa.tech.ico",
     "slug": "practa-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
@@ -33,17 +35,19 @@
     "timeWeek": 325,
     "timeMonth": 327,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 1
+    }
   },
   {
     "name": "PRACTA API",
     "url": "https://api.practa.tech/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.practa.tech.ico",
     "slug": "practa-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.23%",
     "time": 474,
@@ -52,6 +56,7 @@
     "timeMonth": 525,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2025-08-26": 1,
       "2025-07-01": 1391,
       "2025-06-30": 45
     }
@@ -61,10 +66,10 @@
     "url": "https://files.practa.tech",
     "icon": "https://icons.duckduckgo.com/ip3/files.practa.tech.ico",
     "slug": "practa-files",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 869,
@@ -81,7 +86,7 @@
     "url": "https://docs.practa.tech",
     "icon": "https://icons.duckduckgo.com/ip3/docs.practa.tech.ico",
     "slug": "practa-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -92,6 +97,8 @@
     "timeWeek": 320,
     "timeMonth": 313,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   }
 ]
