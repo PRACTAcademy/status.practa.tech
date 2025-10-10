@@ -1,7 +1,7 @@
 url: https://api.practa.tech/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-10T20:50:37.316Z
+status: up
+code: 200
+responseTime: 2548
+lastUpdated: 2025-10-10T20:57:24.136Z
 startTime: 2025-06-30T23:15:04.132Z
 generator: Upptime <https://github.com/upptime/upptime>
